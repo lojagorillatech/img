@@ -1,0 +1,3 @@
+# Trata todo arquivo como binario: impede o Git no Windows de converter
+# quebra de linha dentro de JPG/PNG/WEBP e corromper a imagem.
+* -text

@@ -1,0 +1,22 @@
+# Por padrao, nada da raiz vai para o GitHub.
+/*
+
+# Excecoes: so isto e publicado.
+!/produtos-web/
+!/.gitignore
+!/.gitattributes
+!/.nojekyll
+!/README.md
+
+# Reforco explicito: originais, controle, dados e scripts NUNCA sao publicados.
+/produtos/
+/controle/
+/dados/
+/scripts/
+/logs/
+*.csv
+*.xlsx
+*.log
+*.py
+*.bat
+*.zip
